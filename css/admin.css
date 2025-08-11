@@ -1,0 +1,23 @@
+#json-editor-container table {
+  border-collapse: collapse;
+}
+
+#json-editor-container th,
+#json-editor-container td {
+  border: 1px solid #ccc;
+  padding: 6px;
+}
+#json-editor-container input {
+  width: 100%;
+}
+
+#json-editor-container {
+  overflow: scroll;
+  overflow-x: scroll;
+  width: 80%;
+  height: 80%;
+}
+
+#json-editor-container thead {
+  font-weight: bold;
+}

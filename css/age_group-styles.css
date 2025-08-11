@@ -1,0 +1,44 @@
+/* display: inline-block für sichtbare Rundung */
+
+span.highlight-biber {
+    background-color: #d2b48c; 
+    display: inline-block; 
+    border-radius: 40px;
+    padding: 2px 8px;
+}
+span.highlight-wiwoe {
+    background-color: #FFF9C4;
+    display: inline-block; 
+    border-radius: 40px;
+    padding: 2px 8px;
+}
+span.highlight-gusp {
+    background-color: #C8E6C9; 
+    display: inline-block; 
+    border-radius: 40px;
+    padding: 2px 8px;
+}
+span.highlight-caex {
+    background-color: #BBDEFB; 
+    display: inline-block; 
+    border-radius: 40px;
+    padding: 2px 8px;
+}
+span.highlight-raro {
+    background-color: #FFCDD2; 
+    display: inline-block; 
+    border-radius: 40px;
+    padding: 2px 8px;
+}
+span.highlight-group {
+    font-weight: bold;
+    color: #9D2632;
+}
+
+#group-table th {
+    font-size: 1.5em;      
+    font-weight: 600;     
+    color: #9D2632;
+    vertical-align: middle;
+    text-align: center;
+}
